@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emilyshewcraft
-- 👀 I’m interested in data analytics. I have a strong background in accounting and finance, but I am enthusiastic about opportunities in a number of sectors.
-- 🌱 I’m currently learning SQL.
+- 👀 I have a background in financne and accounting, but I’m interested in full-stack enginerring and data analytics. 
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me: on LinkedIn or by email. See contact info in my bio.
 
 <!---
